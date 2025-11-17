@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Elements/">
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="DWrite/DWrite.vcxproj" Id="49ce62cb-c35a-4a14-89b1-34aa913a36d1" />
+</Solution>

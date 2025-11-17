@@ -1,5 +1,5 @@
 [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-blueviolet.svg)](https://opensource.org/licenses/Unlicense)
-[![Visual Studio 2022](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%202022-5C2D91.svg?&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Visual Studio 2026](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%202026-F0ECF8.svg?&logo=visual-studio-26)](https://visualstudio.microsoft.com/)
 
 # :interrobang: What is MirFLX
 
@@ -7,7 +7,7 @@ The MirFLX program, developed by Farelogix, serves as an interface between ticke
 
 # :thinking: The problem to solve
 
-<img src="https://github.com/mi5hmash/dll-proxy-dwrite-MirFLXRestarter/blob/main/.resources/images/error_cant_connect.png" alt="Error_Cant_Connect"/>
+![Error_Cant_Connect](.resources/images/error_cant_connect.png)
 
 When the program encounters an issue connecting to the Farelogix server, the download service halts. It then has to be manually restarted using the appropriate button in the menu or by restarting the program. Until this is done, new transactions will not be downloaded, and back-office processes come to a standstill.
 
